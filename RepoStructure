@@ -1,0 +1,13 @@
+agentic-databricks-ml-pipeline/
+  README.md
+  requirements.txt
+  src/
+    __init__.py
+    config.py
+    data_agent.py
+    feature_agent.py
+    model_agent.py
+    orchestrator.py
+  data/
+    raw_transactions.csv        # or can generate with a script
+
